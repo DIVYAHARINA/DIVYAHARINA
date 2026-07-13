@@ -32,8 +32,7 @@
 
 # 💫 About Me
 
-```
-java
+```java
 public class Divya {
 
     String fullName = "Divya R";
