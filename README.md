@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divya%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <a href="https://www.linkedin.com/in/divya2607/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -8,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=DIVYAHARINA&style=flat-square&color=70A5FD" alt="profile views"/>
 
 <a href="https://github.com/DIVYAHARINA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Divya+👋;Frontend+Developer+%26+Creative+Coder;Building+Interactive+Web+Experiences" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Divya;Frontend+Developer+%26+Creative+Coder;Building+Interactive+Web+Experiences" alt="Typing SVG" />
 </a>
 
 </div>
