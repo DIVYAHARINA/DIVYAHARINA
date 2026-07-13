@@ -1,20 +1,22 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divya%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<a href="https://www.linkedin.com/in/divya2607/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:divyaharina267@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Location-Melmaruvathur%2C%20India-70A5FD?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=DIVYAHARINA&style=flat-square&color=70A5FD" alt="profile views"/>
+<a href="https://www.linkedin.com/in/divya2607/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:divyaharina267@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/📍_Melmaruvathur%2C_India-70A5FD?style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=DIVYAHARINA&style=flat-square&color=70A5FD&label=Profile%20Views" alt="profile views"/>
 
 <a href="https://github.com/DIVYAHARINA">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Divya;Frontend+Developer+%26+Creative+Coder;Building+Interactive+Web+Experiences" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=👋+Hi+there%2C+I'm+Divya;🚀+Frontend+Developer;✨+3D+Web+Enthusiast;🎨+UI%2FUX+Passionate;📚+Always+Learning"/>
 </a>
+
+<hr/>
 
 </div>
 
 ---
 
-### 💻 About Me
+## 💻 About Me
 
 ```java
 public class Divya {
@@ -22,151 +24,178 @@ public class Divya {
     private String location = "Melmaruvathur, Tamil Nadu, India";
     private String degree = "B.Tech - Information Technology, CGPA: 8.7";
     private String role = "Frontend Developer";
+    private String passion = "Building Interactive & Beautiful Web Experiences";
 
-    private String[] stack = {
+    private String[] skills = {
         "HTML5", "CSS3", "JavaScript", "React", "Three.js",
-        "Python (basics)", "Java (basics)", "Git", "GitHub", "Figma", "Vercel"
+        "Python", "Java", "Git", "GitHub", "Figma", "Vercel"
     };
 
-    private String[] currentlyLearning = {
-        "Generative AI", "Advanced React", "Data Science with Python"
+    private String[] learning = {
+        "🤖 Generative AI", 
+        "⚛️ Advanced React Patterns", 
+        "📊 Data Science with Python"
     };
 
     private String funFact = "I turned a physics concept into code — built a 3D solar system in the browser!";
 
     public String motto() {
-        return "Clean code, clean UI, no compromises.";
-    }
-
-    public static void main(String[] args) {
-        Divya me = new Divya();
-        System.out.println(me.motto());
+        return "✨ Clean code, clean UI, no compromises.";
     }
 }
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-<p> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
-
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-38B2AC?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
+<table align="center">
+<tr><td colspan="5" align="center"><b>Languages</b></td></tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+</tr>
+<tr><td colspan="5" align="center"><b>Frameworks & Libraries</b></td></tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white"/></td>
+  <td colspan="2"></td>
+</tr>
+<tr><td colspan="5" align="center"><b>Tools & Deployment</b></td></tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
+  <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DIVYAHARINA&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAHARINA&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
+<a href="https://github.com/DIVYAHARINA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIVYAHARINA&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/DIVYAHARINA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAHARINA&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DIVYAHARINA&theme=tokyonight&background=0D1117&border=0D1117&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=DIVYAHARINA&theme=tokyonight&background=0D1117&border=0D1117&hide_border=true)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYAHARINA&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DIVYAHARINA&theme=tokyo-night&bg_color=0d1117&hide_border=true)
 
 </div>
 
 ---
 
-### 💼 Work Experience
+## 💼 Experience
 
-<details>
-<summary><b>Web Development Intern — Willo Web Studio (Remote) | July 2025 – Present</b></summary>
+<details open>
+<summary><b>🌐 Web Development Intern — Willo Web Studio (Remote)</b></summary>
 <br/>
 
-- Developed responsive web pages using HTML, CSS, and JavaScript.
-- Assisted in creating user-friendly website interfaces.
-- Collaborated with team members on web development projects.
-- Tested and debugged websites to improve performance and functionality.
+**July 2025 – Present**
+
+- 🎨 Developed responsive and interactive web pages using HTML5, CSS3, and modern JavaScript
+- ✨ Created user-friendly website interfaces with focus on UX/UI best practices
+- 👥 Collaborated with cross-functional team members on full-stack web development projects
+- 🐛 Conducted thorough testing and debugging to optimize performance and functionality
 
 </details>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Description |
-|---|---|---|
-| **🌌 3D Solar System Simulation** | `Three.js` `JavaScript` | Interactive 3D solar system with orbital animations and speed control; implemented real-time rendering and 3D transformations. |
-| **☁️ Weather Detection App** | `HTML` `CSS` `JavaScript` `Fetch API` | Real-time weather app fetching live data via asynchronous JavaScript, with a fully responsive UI for mobile and desktop. |
-| **🎨 UI/UX Prototypes** | `Figma` `React` `Responsive Design` | Designed and built user-friendly, mobile-first interfaces translating Figma prototypes into functional React components. |
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| **🌌 3D Solar System Simulation** | Three.js, JavaScript, WebGL | Interactive orbital animations • Real-time 3D rendering • Speed controls • Physics-based movement |
+| **☁️ Weather Detection App** | HTML5, CSS3, JavaScript, API | Live weather data • Responsive design • Async programming • Geolocation support |
+| **🎨 UI/UX Prototypes** | Figma, React, Responsive CSS | Mobile-first design • Design to code • Interactive components • Accessibility focus |
 
 </div>
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-| Certification | Issuer | Date |
+| 🎓 Certification | 🏢 Issuer | 📅 Year |
 |---|---|---|
-| Full Stack Java Program | Career Craft Academy | Jan 2025 |
-| Python for Data Science | NPTEL | — |
-| HTML5 & CSS3 | — | — |
-| Generative AI | — | — |
+| **Full Stack Java Program** | Career Craft Academy | 2025 |
+| **Python for Data Science** | NPTEL | — |
+| **HTML5 & CSS3 Mastery** | — | — |
+| **Generative AI Fundamentals** | — | — |
 
 </div>
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-**Bachelor of Technology — Information Technology**
+<div align="center">
+
+**Bachelor of Technology — Information Technology**  
 Adhiparasakthi Engineering College (APEC)
-🎯 CGPA: 8.7 | 📅 Expected Graduation: 2027
 
-### 📚 Currently Learning
+📊 **CGPA:** 8.7/10 | 📅 **Expected Graduation:** 2027
 
-`Generative AI` · `Advanced React Patterns` · `Python for Data Science`
-
-### 🌐 Languages
-
-English (Conversational) · Tamil (Native)
+</div>
 
 ---
 
+## 📚 Currently Learning
+
 <div align="center">
 
-📫 Reach me at **divyaharina267@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/divya2607/)
+![Learning](https://img.shields.io/badge/🤖_Generative_AI-orange?style=flat-square)
+![Learning](https://img.shields.io/badge/⚛️_Advanced_React-blue?style=flat-square)
+![Learning](https://img.shields.io/badge/📊_Data_Science-yellow?style=flat-square)
+![Learning](https://img.shields.io/badge/🎨_Web_Design-pink?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Conversational-4A90E2?style=flat-square)
+![Tamil](https://img.shields.io/badge/Tamil-Native-FF6B6B?style=flat-square)
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-divyaharina267@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyaharina267@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divya%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya2607/)
+[![GitHub](https://img.shields.io/badge/GitHub-DIVYAHARINA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DIVYAHARINA)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20%E2%9D%A4&fontSize=20&fontColor=fff"/>
 
 </div>
