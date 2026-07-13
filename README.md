@@ -1,200 +1,514 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Divya%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<a href="https://www.linkedin.com/in/divya2607/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:divyaharina267@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<img src="https://img.shields.io/badge/📍_Melmaruvathur%2C_India-70A5FD?style=flat-square&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=DIVYAHARINA&style=flat-square&color=70A5FD&label=Profile%20Views" alt="profile views"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Divya%20R&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20IT%20Student&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hi+There!+I'm+Divya+R+%F0%9F%91%8B;Frontend+Developer;React+Developer;Building+Interactive+Web+Applications;Always+Learning+New+Technologies"/>
+
+<p>
 
 <a href="https://github.com/DIVYAHARINA">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Divya;Frontend+Developer+%26+Creative+Coder;Building+Interactive+Web+Experiences" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<hr/>
+<a href="https://www.linkedin.com/in/divya2607/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:divyaharina267@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://divyaharina.github.io/Divya-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=DIVYAHARINA&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-## 💻 About Me
-```
-java
+# 💫 About Me
+
+```java
 public class Divya {
-    private String name = "Divya R";
-    private String location = "Melmaruvathur, Tamil Nadu, India";
-    private String degree = "B.Tech - Information Technology, CGPA: 8.7";
-    private String role = "Frontend Developer";
-    private String passion = "Building Interactive & Beautiful Web Experiences";
 
-    private String[] skills = {
-        "HTML5", "CSS3", "JavaScript", "React", "Three.js",
-        "Python", "Java", "Git", "GitHub", "Figma", "Vercel"
+    String fullName = "Divya R";
+
+    String role = "Frontend Developer";
+
+    String college = "Adhiparasakthi Engineering College";
+
+    String degree = "B.Tech Information Technology";
+
+    double cgpa = 8.9;
+
+    String location = "Tamil Nadu, India";
+
+    String portfolio =
+    "https://divyaharina.github.io/Divya-Portfolio/";
+
+    String[] skills = {
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Python",
+        "Java",
+        "Git",
+        "GitHub",
+        "Figma",
+        "VS Code"
     };
 
-    private String[] learning = {
-        "🤖 Generative AI", 
-        "⚛️ Advanced React Patterns", 
-        "📊 Data Science with Python"
+    String[] currentlyLearning = {
+        "React.js",
+        "Next.js",
+        "Generative AI",
+        "UI/UX Design"
     };
 
-    private String funFact = "I turned a physics concept into code — built a 3D solar system in the browser!";
+    String funFact =
+    "I enjoy transforming ideas into beautiful and responsive websites.";
 
-    public String motto() {
-        return "✨ Clean code, clean UI, no compromises.";
+    String motto() {
+        return "Keep Learning • Keep Building • Keep Growing";
     }
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Quick Overview
 
-<table align="center">
-<tr><td colspan="5" align="center"><b>Languages</b></td></tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
-</tr>
-<tr><td colspan="5" align="center"><b>Frameworks & Libraries</b></td></tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white"/></td>
-  <td colspan="2"></td>
-</tr>
-<tr><td colspan="5" align="center"><b>Tools & Deployment</b></td></tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
-  <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
-</tr>
-</table>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 👩‍💻 About Me
+
+- 🎓 B.Tech Information Technology Student
+
+- 💙 Passionate Frontend Developer
+
+- 🌱 Currently learning **React.js**, **Next.js**, and **Generative AI**
+
+- 💼 Looking for Frontend Developer Internship Opportunities
+
+- 🌍 Based in Tamil Nadu, India
+
+- 💬 Ask me about HTML, CSS, JavaScript, React
+
+- ⚡ I love creating clean, responsive, and interactive websites.
+
+<br>
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python"/>
+
+</p>
+
+## ⚛ Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+
+</p>
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
+
+</p>
+
+---
+
+# 🎯 What I'm Working On
+
+```text
+✔ Building Responsive Websites
+
+✔ Improving React Skills
+
+✔ Learning Next.js
+
+✔ Creating Modern UI Designs
+
+✔ Exploring AI-Powered Web Applications
+```
+
+---
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/DIVYAHARINA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIVYAHARINA&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DIVYAHARINA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
-<a href="https://github.com/DIVYAHARINA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAHARINA&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DIVYAHARINA&theme=tokyonight&background=0D1117&border=0D1117&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DIVYAHARINA&theme=tokyo-night&bg_color=0d1117&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAHARINA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-## 💼 Experience
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DIVYAHARINA&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYAHARINA&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DIVYAHARINA&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📌 Developer Statistics
+
+<div align="center">
+
+| 💻 Category | 🚀 Details |
+|:-----------:|:-----------|
+| 🎯 Focus | Frontend Development |
+| 🌱 Learning | React.js, Next.js, Generative AI |
+| 💼 Looking For | Frontend Internship |
+| 📍 Location | Tamil Nadu, India |
+| 🎓 Degree | B.Tech Information Technology |
+| ❤️ Favourite Language | JavaScript |
+| ⚡ IDE | VS Code |
+| 🎨 Design Tool | Figma |
+| 🔧 Version Control | Git & GitHub |
+
+</div>
+
+---
+
+# 📅 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIVYAHARINA&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💡 Development Workflow
+
+<div align="center">
+
+```text
+💭 Idea
+   │
+   ▼
+🎨 UI Design (Figma)
+   │
+   ▼
+💻 Development (HTML • CSS • JavaScript • React)
+   │
+   ▼
+🧪 Testing & Debugging
+   │
+   ▼
+🚀 Deploy on GitHub Pages / Vercel
+```
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+<div align="center">
+
+🌟 Love building modern and responsive websites
+
+🚀 Always exploring new frontend technologies
+
+🎯 Strong interest in UI/UX Design
+
+💡 Believe that every project is an opportunity to learn
+
+☕ Coffee + Music + Coding = Perfect Productivity
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master React.js
+- ✅ Learn Next.js
+- ✅ Build 10+ Real-world Projects
+- ✅ Contribute to Open Source
+- ✅ Secure a Frontend Developer Role
+- ✅ Improve Problem Solving Skills
+- ✅ Learn Backend Basics
+- ✅ Create High-quality UI Designs
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</div>
+
+---
+# 💼 Experience
 
 <details open>
-<summary><b>🌐 Web Development Intern — Willo Web Studio (Remote)</b></summary>
-<br/>
+<summary><b>🌐 Frontend Developer Intern | Willo Web Studio</b></summary>
 
-**July 2025 – Present**
+**📅 Duration:** July 2026 – Present
 
-- 🎨 Developed responsive and interactive web pages using HTML5, CSS3, and modern JavaScript
-- ✨ Created user-friendly website interfaces with focus on UX/UI best practices
-- 👥 Collaborated with cross-functional team members on full-stack web development projects
-- 🐛 Conducted thorough testing and debugging to optimize performance and functionality
+### Responsibilities
+
+- 🎨 Designed responsive web pages using HTML5, CSS3 and JavaScript.
+- ⚛ Built reusable React components.
+- 📱 Improved UI responsiveness across desktop, tablet and mobile devices.
+- 🐞 Debugged frontend issues and optimized website performance.
+- 🤝 Collaborated with team members using Git & GitHub.
+
+</details>
+
+<br>
+
+<details open>
+<summary><b>💻 Full Stack Web Development Intern | Inspire AI Pvt. Ltd.</b></summary>
+
+**📅 Duration:** 2025
+
+### Responsibilities
+
+- Developed responsive websites.
+- Worked with HTML, CSS, JavaScript and Python.
+- Completed internship under AICTE & MSME.
+- Improved problem solving and web development skills.
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🌌 3D Solar System
+
+A realistic 3D Solar System simulation built using Three.js.
+
+### Features
+
+- ☀ Realistic Planets
+- 🌍 Orbital Rotation
+- 🎮 Camera Controls
+- ✨ Smooth Animations
+
+**Tech**
+
+`Three.js`
+`JavaScript`
+`HTML`
+`CSS`
+
+</td>
+
+<td width="50%">
+
+### 🏨 King Sukh Guest House
+
+Modern Hotel Booking Website.
+
+### Features
+
+- Responsive Design
+- Gallery
+- Booking UI
+- Clean Interface
+
+**Tech**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🌦 Weather App
+
+Weather Forecast Application.
+
+### Features
+
+- Live Weather
+- API Integration
+- Responsive Design
+- Dynamic Icons
+
+**Tech**
+
+`JavaScript`
+`OpenWeather API`
+`CSS`
+
+</td>
+
+<td>
+
+### 💼 Personal Portfolio
+
+My personal portfolio website showcasing projects and skills.
+
+### Features
+
+- Modern UI
+- Animations
+- Responsive
+- Contact Form
+
+**Tech**
+
+`React`
+`CSS`
+`JavaScript`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Certifications
+
+| Certificate | Organization |
+|-------------|--------------|
+| 🥇 Full Stack Java | Career Craft Academy |
+| 🥇 Python Programming | NPTEL |
+| 🥇 HTML & CSS | Online Certification |
+| 🥇 Generative AI | Online Learning |
+
+---
+
+# 🎓 Education
+
+## 🎓 Bachelor of Technology
+
+**Information Technology**
+
+🏫 Adhiparasakthi Engineering College
+
+📅 Expected Graduation: **2027**
+
+📊 CGPA: **8.9**
+
+---
+
+# 📚 Currently Learning
 
 <div align="center">
 
-| Project | Tech Stack | Highlights |
-|---------|-----------|-----------|
-| **🌌 3D Solar System Simulation** | Three.js, JavaScript, WebGL | Interactive orbital animations • Real-time 3D rendering • Speed controls • Physics-based movement |
-| **☁️ Weather Detection App** | HTML5, CSS3, JavaScript, API | Live weather data • Responsive design • Async programming • Geolocation support |
-| **🎨 UI/UX Prototypes** | Figma, React, Responsive CSS | Mobile-first design • Design to code • Interactive components • Accessibility focus |
+| Technology | Progress |
+|------------|----------|
+| ⚛ React.js | ██████████░ 90% |
+| ▲ Next.js | ███████░░░ 70% |
+| 🤖 Generative AI | ██████░░░░ 60% |
+| 🎨 UI/UX | █████████░ 85% |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+# 🌍 Languages
+
+- 🇮🇳 Tamil (Native)
+- 🇬🇧 English (Professional)
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Issuer | 📅 Year |
-|---|---|---|
-| **Full Stack Java Program** | Career Craft Academy | 2025 |
-| **Python for Data Science** | NPTEL | — |
-| **HTML5 & CSS3 Mastery** | — | — |
-| **Generative AI Fundamentals** | — | — |
+<a href="mailto:divyaharina267@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divya2607/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DIVYAHARINA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://divyaharina.github.io/Divya-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🎓 Education
+# 💬 Quote
 
 <div align="center">
 
-**Bachelor of Technology — Information Technology**  
-Adhiparasakthi Engineering College (APEC)
-
-📊 **CGPA:** 8.7/10 | 📅 **Expected Graduation:** 2027
+> **"Code is not just about solving problems. It's about creating experiences that people enjoy."**
 
 </div>
 
 ---
+## 🐍 Contribution Snake
 
-## 📚 Currently Learning
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/DIVYAHARINA/DIVYAHARINA/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
 <div align="center">
 
-![Learning](https://img.shields.io/badge/🤖_Generative_AI-orange?style=flat-square)
-![Learning](https://img.shields.io/badge/⚛️_Advanced_React-blue?style=flat-square)
-![Learning](https://img.shields.io/badge/📊_Data_Science-yellow?style=flat-square)
-![Learning](https://img.shields.io/badge/🎨_Web_Design-pink?style=flat-square)
+### ⭐ Thanks for visiting my profile!
 
-</div>
-
----
-
-## 🌐 Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/English-Conversational-4A90E2?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Native-FF6B6B?style=flat-square)
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-divyaharina267@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyaharina267@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divya%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya2607/)
-[![GitHub](https://img.shields.io/badge/GitHub-DIVYAHARINA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DIVYAHARINA)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20%E2%9D%A4&fontSize=20&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
