@@ -7,8 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=DIVYAHARINA&style=flat-square&color=70A5FD&label=Profile%20Views" alt="profile views"/>
 
 <a href="https://github.com/DIVYAHARINA">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=👋+Hi+there%2C+I'm+Divya;🚀+Frontend+Developer;✨+3D+Web+Enthusiast;🎨+UI%2FUX+Passionate;📚+Always+Learning"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Divya;Frontend+Developer+%26+Creative+Coder;Building+Interactive+Web+Experiences" alt="Typing SVG" />
 
 <hr/>
 
