@@ -462,8 +462,8 @@ My personal portfolio website showcasing projects and skills.
 
 # 🌍 Languages
 
-- 🇮🇳 Tamil (Native)
-- 🇬🇧 English (Professional)
+- Tamil (Native)
+- English (Conversational)
 
 ---
 
@@ -500,11 +500,6 @@ My personal portfolio website showcasing projects and skills.
 </div>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/DIVYAHARINA/DIVYAHARINA/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
