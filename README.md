@@ -179,17 +179,6 @@ public class Divya {
 </div>
 
 ---
-
-# 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DIVYAHARINA&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
-
----
-
 # 📌 Developer Statistics
 
 <div align="center">
