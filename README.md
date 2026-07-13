@@ -153,14 +153,13 @@ public class Divya {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DIVYAHARINA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DIVYAHARINA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAHARINA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DIVYAHARINA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
-
 # 🔥 GitHub Streak
 
 <div align="center">
