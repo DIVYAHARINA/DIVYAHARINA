@@ -19,29 +19,32 @@
 
 ```java
 public class Divya {
-    private String name = "Divya R";
-    private String location = "Melmaruvathur, Tamil Nadu, India";
-    private String degree = "B.Tech - Information Technology, CGPA: 8.7";
-    private String role = "Frontend Developer";
-    private String passion = "Building Interactive & Beautiful Web Experiences";
 
-    private String[] skills = {
-        "HTML5", "CSS3", "JavaScript", "React", "Three.js",
-        "Python", "Java", "Git", "GitHub", "Figma", "Vercel"
+    String name = "Divya R";
+    String role = "Frontend Developer";
+    String location = "Tamil Nadu, India";
+
+    String[] skills = {
+        "HTML", "CSS", "JavaScript",
+        "React", "Tailwind CSS",
+        "Python", "Java",
+        "Git", "GitHub", "Figma"
     };
 
-    private String[] learning = {
-        "🤖 Generative AI", 
-        "⚛️ Advanced React Patterns", 
-        "📊 Data Science with Python"
+    String[] currentlyLearning = {
+        "React.js",
+        "Next.js",
+        "AI-powered Web Development"
     };
 
-    private String funFact = "I turned a physics concept into code — built a 3D solar system in the browser!";
+    String funFact =
+        "I enjoy transforming creative ideas into responsive and user-friendly web applications.";
 
-    public String motto() {
-        return "✨ Clean code, clean UI, no compromises.";
+    String motto() {
+        return "Keep learning. Keep building.";
     }
 }
+```
 ```
 
 ---
