@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Divya%20R&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20IT%20Student&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Divya%20R&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Web%20Developer%20%7C%20IT%20Student&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hi+There!+I'm+Divya+R+%F0%9F%91%8B;Frontend+Developer;React+Developer;Building+Interactive+Web+Applications;Always+Learning+New+Technologies"/>
 
@@ -32,7 +32,8 @@
 
 # 💫 About Me
 
-```java
+```
+java
 public class Divya {
 
     String fullName = "Divya R";
@@ -80,7 +81,6 @@ public class Divya {
     }
 }
 ```
-
 ---
 
 # 🚀 Quick Overview
